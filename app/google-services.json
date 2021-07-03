@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1018095233574",
+    "firebase_url": "https://earnspin-ea6b9.firebaseio.com",
+    "project_id": "earnspin-ea6b9",
+    "storage_bucket": "earnspin-ea6b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018095233574:android:47eb1fd5959a239e",
+        "android_client_info": {
+          "package_name": "com.rajputanadeveloper.earnspin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018095233574-io4heqeueet6gsk8ihfinlqu501kqvu2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rajputanadeveloper.earnspin",
+            "certificate_hash": "555310939c1f43869a4437849f6fec182bf3e51f"
+          }
+        },
+        {
+          "client_id": "1018095233574-o5ebobutcdjh783sju4u0b01uh97tnf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9fALbGG7SDpUzAy_boouurF-NVGTwL7w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018095233574-o5ebobutcdjh783sju4u0b01uh97tnf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
